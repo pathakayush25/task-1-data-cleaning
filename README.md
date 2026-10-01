@@ -1,4 +1,4 @@
-# Task 1 – Data Cleaning using Python
+# Data Cleaning using Python
 
 ## 📌 Project Overview
 
@@ -25,7 +25,7 @@ The dataset contains information about Titanic passengers, including passenger c
 - Python
 - Pandas
 - NumPy
-- Google Colab / Jupyter Notebook
+- Jupyter Notebook
 - GitHub
 
 ## 🔍 Data Quality Issues Identified
@@ -142,4 +142,4 @@ The complete cleaning process is documented in:
 
 B.Tech Computer Engineering Student
 
-Interested in Data Science, Data Analysis, Web Development and UI/UX Design.
+
